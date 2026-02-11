@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>TO MY SISTER</title>
+  </head>
+  <body>
+    <div class="card">
+      <h1>To my friend, my sister, my helper</h1>
+      <h2>A little note for you</h2>
+      <div class="box">
+        <pre>
+        You helped me when I was in need,
+        Your presence matters very much indeed;
+        You made the world lighter,
+        When I carried burden.
+        But I'm not ready for this goodbye so sudden.
+        </pre>
+      </div>
+      <br /><br />
+      <p id="hidden">
+        Button Dabao :p<br />
+        <button class="btn" onclick="showMsg()">Mujhe Dabao :p</button>
+      </p>
+      <br />
+      <a href="pg2.html">
+        <button class="btn">Next</button>
+      </a>
+    </div>
+    <script>
+      function showMsg() {
+        document.getElementById("hidden").innerHTML =
+          "Thankyou for everything, for all the years, times, moments, memories, and everything that you have done to make this journey memorable and worth looking back at";
+      }
+    </script>
+  </body>
+</html>

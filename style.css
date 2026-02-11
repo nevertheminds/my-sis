@@ -1,0 +1,53 @@
+body {
+  background: rgb(239, 239, 172);
+  font-family: lucida calligrahy;
+  text-align: center;
+  margin: 12px;
+  padding: 20px;
+}
+h1 {
+  margin-bottom: 20px;
+}
+.box {
+  background: rgb(249, 255, 140);
+  font-family: cursive;
+  text-align: left;
+  width: 400px;
+  margin: auto;
+  padding: 25px;
+  border-radius: 15px;
+}
+.box2 {
+  background: rgb(249, 255, 140);
+  font-family: cursive;
+  text-align: center;
+  width: 400px;
+  margin: auto;
+  padding: 25px;
+  border-radius: 15px;
+}
+.card {
+  background: white;
+  text-align: center;
+  padding: 15px;
+  border-radius: 18px;
+}
+.btn {
+  margin: 10px;
+  padding: 10px 12px;
+  border: none;
+  background: #e91e62a4;
+  color: white;
+  text-decoration: none;
+  font-size: 15px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+.end {
+  background: white;
+  text-align: center;
+  width: 340px;
+  margin: auto;
+  padding: 25px;
+  border-radius: 15px;
+}
