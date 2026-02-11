@@ -21,6 +21,7 @@ h1 {
   background: rgb(249, 255, 140);
   font-family: cursive;
   text-align: center;
+  width: 400px;
   margin: auto;
   padding: 25px;
   border-radius: 15px;
@@ -50,5 +51,6 @@ h1 {
   padding: 25px;
   border-radius: 15px;
 }
+
 
 
