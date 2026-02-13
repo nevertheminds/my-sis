@@ -28,10 +28,16 @@ h1 {
 }
 .card {
   background: white;
-  text-align: left;
+  text-align: center;
   padding: 15px;
   border-radius: 18px;
 }
+  .card2 {
+    background: white;
+    text-align: left;
+    padding: 15px;
+    border-radius: 18px
+  }
 .btn {
   margin: 10px;
   padding: 10px 12px;
@@ -51,3 +57,4 @@ h1 {
   padding: 25px;
   border-radius: 15px;
 }
+
